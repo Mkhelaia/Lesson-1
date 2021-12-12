@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+}
+h1{
+    height: 10px;
+    color: white;
+}
+h2{
+
+color: yellow;
+    font-size: 15px;
+}
+p{
+    color:white;
+}
+.link{
+    text-decoration: unset;
+    color: blue;
+}
+img{
+    margin-top: -15px;
+    width: 55%;
+}
